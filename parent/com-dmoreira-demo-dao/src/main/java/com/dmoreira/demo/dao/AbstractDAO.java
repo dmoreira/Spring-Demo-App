@@ -2,6 +2,12 @@ package com.dmoreira.demo.dao;
 
 import java.util.List;
 
+/**
+ * 
+ * @author dmoreira
+ *
+ * @param <T>
+ */
 public interface AbstractDAO<T> {
 	/**
 	 * 
